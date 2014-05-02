@@ -1,15 +1,15 @@
 [submodule "sub/bost.ocks.org"]
 	path = sub/bost.ocks.org
-	url = git@github.com:medea-project/bost.ocks.org.git
+	url = https://github.com/medea-project/bost.ocks.org.git
 [submodule "sub/dc.js"]
 	path = sub/dc.js
-	url = git@github.com:medea-project/dc.js.git
+	url = https://github.com/medea-project/dc.js.git
 [submodule "sub/nvd3"]
 	path = sub/nvd3
-	url = git@github.com:medea-project/nvd3.git
+	url = https://github.com/medea-project/nvd3.git
 [submodule "sub/d3.parsets"]
 	path = sub/d3.parsets
-	url = git@github.com:medea-project/d3-parsets.git
+	url = https://github.com/medea-project/d3-parsets.git
 [submodule "sub/contour-plot"]
 	path = sub/contour-plot
 	url = https://gist.github.com/11396357.git
@@ -36,7 +36,7 @@
 	url = https://gist.github.com/11397653.git
 [submodule "sub/wbgds"]
 	path = sub/wbgds
-	url = git@github.com:medea-project/wbgds.git
+	url = https://github.com/medea-project/wbgds.git
 [submodule "sub/scatterplot"]
 	path = sub/scatterplot
 	url = https://gist.github.com/11398002.git
