@@ -12,34 +12,34 @@
 	url = https://github.com/medea-project/d3-parsets.git
 [submodule "sub/contour-plot"]
 	path = sub/contour-plot
-	url = https://gist.github.com/11396357.git
+	url = https://github.com/medea-project/contour-plot.git
 [submodule "sub/self-organizing-map"]
 	path = sub/self-organizing-map
-	url = https://gist.github.com/11396449.git
+	url = https://github.com/medea-project/self-organizing-map.git
 [submodule "sub/stacked-to-grouped-bars"]
 	path = sub/stacked-to-grouped-bars
-	url = https://gist.github.com/11396533.git
+	url = https://github.com/medea-project/stacked-to-grouped-bars.git
 [submodule "sub/sunburst-partition"]
 	path = sub/sunburst-partition
-	url = https://gist.github.com/11397418.git
+	url = https://github.com/medea-project/sunburst-partition.git
 [submodule "sub/cluster-dendogram"]
 	path = sub/cluster-dendogram
-	url = https://gist.github.com/11397591.git
+	url = https://github.com/medea-project/cluster-dendogram.git
 [submodule "sub/bubble-chart"]
 	path = sub/bubble-chart
-	url = https://gist.github.com/11397644.git
+	url = https://github.com/medea-project/bubble-chart.git
 [submodule "sub/streamgraph"]
 	path = sub/streamgraph
-	url = https://gist.github.com/11397672.git
+	url = https://github.com/medea-project/streamgraph.git
 [submodule "sub/circle-packing"]
 	path = sub/circle-packing
-	url = https://gist.github.com/11397653.git
+	url = https://github.com/medea-project/circle-packing.git
 [submodule "sub/wbgds"]
 	path = sub/wbgds
 	url = https://github.com/medea-project/wbgds.git
 [submodule "sub/scatterplot"]
 	path = sub/scatterplot
-	url = https://gist.github.com/11398002.git
+	url = https://github.com/medea-project/scatterplot.git
 [submodule "sub/stacked-area-chart"]
 	path = sub/stacked-area-chart
-	url = https://gist.github.com/11398014.git
+	url = https://github.com/medea-project/stacked-area-chart.git
