@@ -65,10 +65,12 @@ who contributed to the [Intergovernmental Panel on Climate Change][IPCC].
 
 ## About MEDEA Project
 
-Funded by the ANR, the Mapping Environmental DEbates on Adaptation (MEDEA)
+Funded by the [ANR][], the Mapping Environmental DEbates on Adaptation (MEDEA)
 Project proposes a research programme based on the innovative methodology
 of controversy-mapping in order to understand and ultimately improve the way
 we publicly discuss climate change adaptation.
+
+[ANR]: http://www.agence-nationale-recherche.fr/en/project-based-funding-to-advance-french-research/
 
 MEDEA is based on an original disciplinary articulation resulting from
 the collaboration of three partners:
