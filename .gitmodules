@@ -43,3 +43,6 @@
 [submodule "sub/stacked-area-chart"]
 	path = sub/stacked-area-chart
 	url = https://github.com/medea-project/stacked-area-chart.git
+[submodule "sub/ipcc.projetmedea.fr"]
+	path = sub/ipcc.projetmedea.fr
+	url = https://github.com/medea-project/ipcc.projetmedea.fr.git
