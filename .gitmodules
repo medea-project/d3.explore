@@ -46,3 +46,6 @@
 [submodule "sub/ipcc.projetmedea.fr"]
 	path = sub/ipcc.projetmedea.fr
 	url = https://github.com/medea-project/ipcc.projetmedea.fr.git
+[submodule "sub/gss"]
+	path = sub/gss
+	url = https://github.com/the-gss/engine.git
