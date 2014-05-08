@@ -1,0 +1,6 @@
+.full-left {
+  background-color: red;
+  position: relative;
+  width: == ::window[width];
+  right: == ::window[right];
+}
