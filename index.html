@@ -62,6 +62,42 @@
                   alt=""
                 />
               </p>
+              <p>
+                Initially, the only hint that the bar chart is interactive
+                is the shape of the cursor which changes to a cross on hover.
+                After starting a selection, a text appears above the chart
+                which describes the current range of values, and helps to
+                understand and to refine the selection process.
+              </p>
+              <p>
+                Once familiar with the way of defining a range of values
+                however, it is straightforward to select authors who
+                contributed to more than 2, 3, 4 or 5 assessment reports.
+                The other charts and the table with the list of authors
+                get updated on the fly, as well as the number of authors
+                currently selected, displayed on top of the list.
+              </p>
+              <p>
+                The table lists both authors and their collaborations.
+                The collaborations are listed as individual records,
+                grouped under a header with the name of the author
+                and some statistics: total number of contributions,
+                of working groups and of assessment reports. Each of
+                these values is only displayed when greater than 1,
+                which reduces the amount of information displayed
+                in the most common cases.
+              </p>
+              <p>
+                The number of records displayed in the table must be limited
+                to keep the page responsive. The duration required to refresh
+                the table increases exponentially With the number of records,
+                freezing the display completely when a large number of authors
+                and contributions are selected. This limit can be configured
+                through a list: only 10 contributions are displayed initially
+                to keep the page responsive while filtering data; the user can
+                change this value to display more records or the full list at
+                a later point.
+              </p>
             </li>
           </ul>
         </li>
@@ -135,6 +171,25 @@
                   alt=""
                 />
               </p>
+              <p>
+                Using Cumulated Working Groups avoids the confusion of authors
+                that belong to multiple working groups. However, another
+                confusion arises: to select all the authors who contributed
+                to a working group, 3 different rows must be select; it is
+                not enough to select WG I, for example, WG I+II and WG I+II+III
+                must be selected as well.
+              </p>
+              <p>
+                The dynamic range of values introduces another challenge:
+                when groups with over 1000 authors are represented on the
+                same chart as groups with only 10 or 15 authors, the rows for
+                the smallest groups are hardly visible which makes it hard
+                to click on the rows to select these groups and to identify
+                the current color of these groups to check whether they are
+                selected or not. This issue tends to worsen with filters
+                applied through different charts, which further reduce the
+                number of authors displayed and thus the length of the rows.
+              </p>
             </li>
             <li>
               <h3>
@@ -190,6 +245,16 @@
                   src="question05/dc.js-answers/thumbnails/roles-of-bridge-authors.png"
                   alt=""
                 />
+              </p>
+              <p>
+                The depiction of roles on pie charts is misleading: the
+                authors who endorse a different role for different
+                contributions belong to more than one section.
+                While the area of a section is still proportional to the
+                percentage of authors with a given role, these percentages
+                do not add up to a total of 100%. To provide a more
+                accurate representation, the sections should overlap, which
+                would still be confusing visually.
               </p>
             </li>
             <li>
