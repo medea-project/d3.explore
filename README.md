@@ -80,3 +80,15 @@ the collaboration of three partners:
 * and the ENSADlab of the Ecole Nationale Supérieure des Arts Décoratifs.
 
 http://projetmedea.hypotheses.org/a-propos-medea/presentation-en
+
+## Attribution
+
+[MEDEA Project][] [CC-BY][] [Arts Déco][] & [Sciences Po][]
+
+[MEDEA Project]: http://www.projetmedea.fr/
+[CC-BY]: https://creativecommons.org/licenses/by/4.0/
+         "Creative Commons Attribution 4.0 International"
+[Arts Déco]: http://www.ensad.fr/en
+             "École Nationale Supérieure des Arts Décoratifs"
+[Sciences Po]: http://www.medialab.sciences-po.fr/
+               "Sciences Po Médialab"
