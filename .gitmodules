@@ -46,3 +46,6 @@
 [submodule "sub/ipcc.projetmedea.fr"]
 	path = sub/ipcc.projetmedea.fr
 	url = https://github.com/medea-project/ipcc.projetmedea.fr.git
+[submodule "sub/tree-map"]
+	path = sub/tree-map
+	url = https://github.com/medea-project/tree-map
